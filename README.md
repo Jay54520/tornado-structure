@@ -23,6 +23,10 @@ Enable DEBUG by set environment variable:
 
 `python -m unittest`
 
+## Run scripts
+
+`python -m sample.scripts.hello`
+
 ## Reference
 
 1. [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
