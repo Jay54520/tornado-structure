@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Jay54520/tornado-structure.svg?branch=master)](https://travis-ci.org/Jay54520/tornado-structure)
+[![Coverage Status](https://coveralls.io/repos/github/Jay54520/tornado-structure/badge.svg?branch=master)](https://coveralls.io/github/Jay54520/tornado-structure?branch=master)
+
 # tornado-structure
 Python tornado project structure
 
